@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ocr-space-api-wrapper": "^2.1.0",
+    "tesseract.js": "^2.1.5"
+  }
+}
